@@ -1,0 +1,2 @@
+# zliuebungTuerkmen
+uebung.zli
